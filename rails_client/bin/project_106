@@ -1,0 +1,4 @@
+#!/usr/bin/project_106
+
+require "project_106"
+Project106.install_nodejs
