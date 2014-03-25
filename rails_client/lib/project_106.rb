@@ -7,6 +7,7 @@ require "project_106/version"
 require "project_106/configuration"
 require 'project_106/exception_reporter'
 require 'project_106/log_reporter'
+require 'rails'
 require "project_106/railtie" if defined? Rails
 require "active_support/dependencies"
 
